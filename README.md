@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Evin</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <ul>
-	<li>📚 Computer Science student at BSI University</li>
-	<li>📄 Know about my experiences Linkedin</li>
+	<li>📚 Computer Science student at <a href="https://bsi.id/">BSI University</a></li>
+	<li>📄 Know about my experiences <a href="https://linkedin.com/in/evin-altra-">Linkedin</a></li>
 	<li>💬 Ask me about any technology.</li>
-	<li>⚡ Fun fact: I'm a CAT</li>
+	<li>⚡ just fun</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
