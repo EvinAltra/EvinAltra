@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Evin</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
+📚 Computer Science student at BSI University
+📄 Know about my experiences Linkedin
+💬 Ask me about any technology.
+⚡ Fun fact: I'm a CAT
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/vinltra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinltra" height="30" width="40" /></a>
